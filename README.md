@@ -40,7 +40,7 @@
    2) [Java Interview Questions - Software Testing Help](https://www.softwaretestinghelp.com/core-java-interview-questions/)
 - **C++**
    1) [C++ Interview Questions - InterviewBit](https://www.interviewbit.com/cpp-interview-questions/)
-   2) [C++ Interview Questions - JavaTPoint](https://www.javatpoint.com/cpp-interview-questions)
+   2) [C++ Interview Questions - tpointtech](https://www.tpointtech.com/cpp-interview-questions)
    3) [Common C++ Interview Questions - GeeksforGeeks](https://www.geeksforgeeks.org/commonly-asked-c-interview-questions-set-1/)
    4) [C++ Interview Questions - Hackr.io](https://hackr.io/blog/cpp-interview-questions)
    5) [Dynamic Memory Allocation with C++ - LearnCPP](https://www.learncpp.com/cpp-tutorial/dynamic-memory-allocation-with-new-and-delete/)
@@ -48,7 +48,7 @@
    1) [Python Interview Questions - Hackr.io](https://hackr.io/blog/python-interview-questions)
 
 ### Databases and SQL Interview Questions
-1) [DBMS Interview Questions - JavaTPoint](https://www.javatpoint.com/dbms-interview-questions)
+1) [DBMS Interview Questions - tpointtech](https://www.tpointtech.com/dbms-interview-questions)
 2) [SQL Interview Questions - InterviewBit](https://www.interviewbit.com/sql-interview-questions/)
 
 ### General Aptitude Preparation
